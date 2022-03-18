@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "dontcrash",
+    "author": "kygas",
+    "description": "uwu kyaa",
+    "options": {
+        "niceName": "dc",
+        "guiName": "dc",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/prevent-crashing/master/"]
+}
