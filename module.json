@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "name": "dontcrash",
-    "author": "kygas",
-    "description": "uwu kyaa",
+    "name": "AntiUFO",
+    "author": "KYGAS",
+    "description": "Prevents loading of unsupported costume.",
     "options": {
-        "niceName": "dc",
-        "guiName": "dc",
-        "reloadable": true
+        "niceName": "AUFO",
+        "guiName": "AntiUFO",
+        "reloadable": false
     },
     "servers": ["https://raw.githubusercontent.com/KYGAS/prevent-crashing/master/"]
 }
