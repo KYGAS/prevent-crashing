@@ -1,9 +1,10 @@
 {
     "files": {
-        "index.js": "3e0c27a9eb9550df0f56343f66d1c769245ea7e37c93214e4f78b401609f1752",
+        "index.js": "8f5fc69fc4b2b9da0a100dc5c888ec14277a0bd25b6a65586a7d75d7898ef47e",
         "module.json": "9ccbe7ccbd73842e6c225890a32fe35924451edaff56bbfc2e12fa608251f06d"
     },
     "defs": {
-        "S_SPAWN_USER": 17
+        "S_SPAWN_USER": 17,
+        "S_USER_EXTERNAL_CHANGE": 7
     }
 }
